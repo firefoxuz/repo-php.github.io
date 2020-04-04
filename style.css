@@ -168,7 +168,7 @@ section:last-child {
 .keySkills ul li {
 	margin-bottom: 3px;
 }
-
+/*
 @media all and (min-width: 602px) and (max-width: 800px) {
 	#headshot {
 		display: none;
@@ -309,7 +309,7 @@ section:last-child {
 		opacity: 1;
 	}
 }
-
+*/
 .instaFade {
     -webkit-animation-name: reset, fade-in;
     -webkit-animation-duration: 1.5s;
